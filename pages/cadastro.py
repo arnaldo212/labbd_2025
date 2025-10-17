@@ -6,6 +6,7 @@ st.balloons()
 st.snow() 
 
 while(True):
-    #time.sleep(5)
+    time.sleep(5)
     st.snow()
+
 
